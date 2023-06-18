@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246090898244",
+    "project_id": "entregasremessas",
+    "storage_bucket": "entregasremessas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246090898244:android:e6cc5eb36b513574329511",
+        "android_client_info": {
+          "package_name": "com.example.remessasentregas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246090898244-plj7q864o6v5870qn04ciuh6k30ml2v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_OqkHCGrNZB6DE_yEYj4TkKxcNlldUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246090898244-plj7q864o6v5870qn04ciuh6k30ml2v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
